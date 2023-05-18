@@ -1,2 +1,2 @@
-# trainingProjects
-Here is  an interesting frontend-project which I have done
+# TrainingProjects
+Here is interesting frontend-projects which I have done
